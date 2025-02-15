@@ -14,12 +14,13 @@ A basic command-line calculator that performs arithmetic operations.
 - Input validation
 - Continuous calculation option
 
+
 ## Usage
 ```bash
 git clone https://github.com/yourusername/simple-calculator.git
 cd simple-calculator
 python calculator.py
-```
+
 How to Use
 
 Enter first number
@@ -38,7 +39,6 @@ Advanced mathematical operations
 Memory function
 History of calculations
 Scientific calculator features
-```
 
 Contributing
 Feel free to fork and submit pull requests.
