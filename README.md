@@ -1,6 +1,6 @@
 **Simple Calculator**
 
-```markdown
+
 # Simple Python Calculator
 
 A basic command-line calculator that performs arithmetic operations.
@@ -20,6 +20,7 @@ A basic command-line calculator that performs arithmetic operations.
 git clone https://github.com/yourusername/simple-calculator.git
 cd simple-calculator
 python calculator.py
+```
 
 How to Use
 
